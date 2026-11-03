@@ -1,0 +1,597 @@
+{
+  "name": "Stove ShareToken List",
+  "timestamp": "2026-11-02T11:20:54.615Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "stove": {
+      "name": "Stove ShareToken",
+      "description": "ShareToken issued by Stove"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x49444486f4f667cbbac1a970ff9135b31a2218ef",
+      "symbol": "AAOIs",
+      "name": "Applied Optoelectronics, Inc.",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xd4fe3a3c4a0f4a59e18ed2c0741e8dcbdb6c70b0",
+      "symbol": "ACHRs",
+      "name": "Archer Aviation",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x6bd2bb91e5552f3edd2f197e188d7aa0ffc3ba35",
+      "symbol": "AMLPs",
+      "name": "Alerian MLP ETF",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x9d2b5287150da2d266ba626d55dd8c4b93504739",
+      "symbol": "AMZNs",
+      "name": "Amazon.com Inc.",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x005e3e64ce9bc8c00c3f331058b8e899d8f1a4e9",
+      "symbol": "BLLNs",
+      "name": "BillionToOne",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xf2c5c1f38108bf61f535c14654bab579b7929527",
+      "symbol": "BYDs",
+      "name": "比亚迪股份",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xfb865d2b5902c9bd858b1f0afca7351e08d622d2",
+      "symbol": "DZSKs",
+      "name": "大族数控",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x7c5628a70e4159f75d87e0d3c10cd508e2125251",
+      "symbol": "GFQNs",
+      "name": "国富氢能",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x5da475ee8f6ac2ee348ecc00f07b5ea39b6b6850",
+      "symbol": "GHKJs",
+      "name": "广合科技",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xf974ffb9276411ec9c4d1af2f5cca777331a9e38",
+      "symbol": "GSTCs",
+      "name": "Global Standard Tech Co",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x0445386194fb7ab63a905486c3d454a6f139098f",
+      "symbol": "HGDLGSs",
+      "name": "韩国电力公社",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x735ea488b0ae78cd022f14e5bb5024cdcfaa4ca2",
+      "symbol": "LENOVOs",
+      "name": "联想集团",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xfe6529a4b9b1127238cc4e717ba9a5af93ccbcfd",
+      "symbol": "LZYYs",
+      "name": "丽珠医药",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x28ea0d7f4f12ddb6ff76c4b73477a7148213a8cd",
+      "symbol": "MAs",
+      "name": "Mastercard Incorporated Class A",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xfeabd99b71942831009b26dc0df5a31bbe64f673",
+      "symbol": "MMHMs",
+      "name": "鸣鸣很忙",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xa68f42d6dbded2ad2ccaaf1bf59a813c354bb140",
+      "symbol": "MSFTs",
+      "name": "Microsoft Corporation",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x75bd16cbabdcaf59f793b4e874a2d90a4b774e3f",
+      "symbol": "NVDAs",
+      "name": "NVIDIA",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x7fda03cb37a31de1b5a8931a9b9dfe66cd59bcf7",
+      "symbol": "PAASs",
+      "name": "Plains All American Pipeline, L.P.",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x08b3c18588166ef511b88efd886a6df288df0590",
+      "symbol": "POPMARTs",
+      "name": "泡泡玛特",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x71f1f00e58d5b8bca9d638df352221d3d6e8b6e6",
+      "symbol": "QQQs",
+      "name": "纳指100ETF",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x0b2db32d3331c19a9c5769ab1816cf566d3b37ea",
+      "symbol": "RQCXs",
+      "name": "如祺出行",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x660fe76136649c4e7ad9fff7344400800de815cf",
+      "symbol": "Rznomicss",
+      "name": "Rznomics",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xb47b8feebbe0f39ed682527e20e148529bcb245c",
+      "symbol": "SAMSUNGs",
+      "name": "三星电子",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x4f75faf133970cb5c7c1d47f541e5d52cbc7cffa",
+      "symbol": "SENSETIMEs",
+      "name": "商汤-W",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x5723692dd3186da1dca8d5e7186f80dd3e70da1a",
+      "symbol": "SKHYNIXs",
+      "name": "SK海力士",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xa5f2d2f4ea373a501903017297964fdf44ec51e6",
+      "symbol": "SNDKs",
+      "name": "闪迪",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x0389323a59c289111808d167b080253150948231",
+      "symbol": "TSLAs",
+      "name": "Tesla Inc.",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xa6aed5d0ecdc567d00e7ed010699e8f5d77dc234",
+      "symbol": "WPRTs",
+      "name": "西港燃料",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x1787224ce5cf07584da5f467e0c56e55291d2379",
+      "symbol": "XDZNs",
+      "name": "先导智能",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x42af91a633b138539724094b6025b6512f86bea5",
+      "symbol": "XIAOMIs",
+      "name": "小米",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xd4469734f93c9a0f889cedfc3b8df7f5a6ccc3fa",
+      "symbol": "XTYLs",
+      "name": "心泰医疗",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x3c68e908a1ec14baa1952f34dfb8252a4b62d671",
+      "symbol": "ZPs",
+      "name": "智谱",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0xe3358c1fbad71eca50708df8a2e91550762199a8",
+      "symbol": "ZSSs",
+      "name": "周生生",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x381da239f3a2fe79aacc0ef820cd0d529c671ee4",
+      "symbol": "ACHRs",
+      "name": "Archer Aviation",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x03ce418aa9534db677b91b8e7f19b014d0d0acbb",
+      "symbol": "AGNCs",
+      "name": "AGNC Investment Corp",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x837a9454ed4a98bd9057016434508b4032c61402",
+      "symbol": "AMLPs",
+      "name": "Alerian MLP ETF",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xfcf47bba20f8e7374d3b746dc1635f2986ae6fbf",
+      "symbol": "BLLNs",
+      "name": "BillionToOne",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x53f84bc018cb713d4549db35008adb487c2f4b89",
+      "symbol": "BYDs",
+      "name": "比亚迪股份",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xf724e0b405bd367d09a4e50701026f57bb9c35c9",
+      "symbol": "DZSKs",
+      "name": "大族数控",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xd61b38271f0608bb70c09b31dfd3e23158f58378",
+      "symbol": "GFQNs",
+      "name": "国富氢能",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xf981e46fdb25231f2e58630e99a4f566d206850d",
+      "symbol": "GHKJs",
+      "name": "广合科技",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xcd8b630c0d178ad0551082afb20a358e64a721f3",
+      "symbol": "GSTCs",
+      "name": "Global Standard Tech Co",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xbc713e421d9e2aab1de35feeb9123db257406cf7",
+      "symbol": "HGDLGSs",
+      "name": "韩国电力公社",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x847b162499a1e7e6d8d51b548036ad207b54513f",
+      "symbol": "KUMHOTIREs",
+      "name": "Kumho Tire",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x622bf711bde0f1136d815b9a00ed085fb9d1e37d",
+      "symbol": "LENOVOs",
+      "name": "联想集团",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xb4364eac99efc816e506be97bb68d18259dc1def",
+      "symbol": "LZYYs",
+      "name": "丽珠医药",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x1849e010f2a838422d4c14aa060beb886c4d47df",
+      "symbol": "MAs",
+      "name": "Mastercard Incorporated Class A",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xb244d16a684162c4e67faf7708331a1242cc90d8",
+      "symbol": "MMHMs",
+      "name": "鸣鸣很忙",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x9f5307a719cf0acff77604d453800c528d3a5ecd",
+      "symbol": "NVDAs",
+      "name": "NVIDIA",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xdfe299870099781fa6acf11938e22174466545e4",
+      "symbol": "POPMARTs",
+      "name": "泡泡玛特",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x3302319505b42063acf85f92e2707d9a0a933675",
+      "symbol": "RQCXs",
+      "name": "如祺出行",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x934c5f0e3d155b1dfc2ae0cbba74e371e3a28031",
+      "symbol": "SAMSUNGs",
+      "name": "三星电子",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x5fcc58f4fec2b6a83393242a22cbebab4102a60d",
+      "symbol": "SENSETIMEs",
+      "name": "商汤-W",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0xf8c710d5525dad0a938626d9cc227dae99d3d4ce",
+      "symbol": "SKHYNIXs",
+      "name": "SK海力士",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x17d67d618c01d069180e45001d2c7209ecaad461",
+      "symbol": "SNDKs",
+      "name": "闪迪",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x839cf5af2cfc584d9de51243c21285cbc76ae55a",
+      "symbol": "XDQCs",
+      "name": "现代汽车",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x5334b70425afa331fe749eee0e28ece952132393",
+      "symbol": "XIAOMIs",
+      "name": "小米",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x42605f8bed2a549f7b3c00a2c044a207a039517f",
+      "symbol": "ZPs",
+      "name": "智谱",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    }
+  ]
+}
