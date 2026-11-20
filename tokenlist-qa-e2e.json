@@ -1,6 +1,6 @@
 {
   "name": "Stove Tokenized Stocks List",
-  "timestamp": "2026-11-20T10:20:55.416Z",
+  "timestamp": "2026-11-20T10:20:57.328Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -669,6 +669,156 @@
       "name": "智谱 (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/ZPs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00000000000000000000000000000000000de2b0",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x00000000000000000000000000000000000de2b1",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x00000000000000000000000000000000000de2b2",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00000000000000000000000000000000000de2b3",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x00000000000000000000000000000000000de2b4",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x00000000000000000000000000000000000de2b5",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00000000000000000000000000000000000de2b6",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x00000000000000000000000000000000000de2b7",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x00000000000000000000000000000000000de2b8",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00000000000000000000000000000000000de2b9",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x00000000000000000000000000000000000de2ba",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x00000000000000000000000000000000000de2bb",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00000000000000000000000000000000000de2bc",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 421614,
+      "address": "0x00000000000000000000000000000000000de2bd",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x00000000000000000000000000000000000de2be",
+      "symbol": "E2EGUARD",
+      "name": "E2E Fake",
+      "decimals": 18,
       "tags": [
         "stove"
       ]
