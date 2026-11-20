@@ -1,9 +1,9 @@
 {
   "name": "Stove Tokenized Stocks List",
-  "timestamp": "2026-11-20T10:11:07.783Z",
+  "timestamp": "2026-11-20T10:11:12.912Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -636,6 +636,39 @@
       "name": "小米 (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/XIAOMIs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0xfca7e17be34f651c732283fcd427807ea6b7fdcb",
+      "symbol": "XXZGs",
+      "name": "晓星重工 (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/XXZGs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0xcd77f63767659693e2a245dfe0d03c206e163b0d",
+      "symbol": "XYGNs",
+      "name": "XYGN (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/XYGNs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 688689,
+      "address": "0x5fa519c7b6fa8c9e186f34fad85759a54ed5b2e4",
+      "symbol": "ZPs",
+      "name": "智谱 (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/ZPs.png",
       "tags": [
         "stove"
       ]
