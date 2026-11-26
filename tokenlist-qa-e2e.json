@@ -1,8 +1,8 @@
 {
   "name": "Stove Tokenized Stocks List",
-  "timestamp": "2026-11-26T02:24:11.487Z",
+  "timestamp": "2026-11-26T02:24:15.673Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -669,36 +669,6 @@
       "name": "智谱 (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/ZPs.png",
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 97,
-      "address": "0x00000000000000000000000000000000000dbba0",
-      "symbol": "E2EFAKE",
-      "name": "E2E Fake",
-      "decimals": 18,
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 421614,
-      "address": "0x00000000000000000000000000000000000dbba1",
-      "symbol": "E2EFAKE",
-      "name": "E2E Fake",
-      "decimals": 18,
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 688689,
-      "address": "0x00000000000000000000000000000000000dbba2",
-      "symbol": "E2EFAKE",
-      "name": "E2E Fake",
-      "decimals": 18,
       "tags": [
         "stove"
       ]
